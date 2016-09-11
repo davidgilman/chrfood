@@ -1,0 +1,16 @@
+{
+  "name": "cherfood",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.1",
+    "semantic": "^2.2.4",
+    "scrollmagic": "^2.0.5",
+    "fullpage.js": "^2.8.6",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
